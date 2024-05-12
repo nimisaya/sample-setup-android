@@ -1,4 +1,4 @@
-package com.nimisaya.base.ui.theme
+package com.nimisaya.base.presentation.theme
 
 import android.app.Activity
 import android.os.Build
